@@ -1,0 +1,803 @@
+{
+  "NatWest": [
+    {
+      "name": "Scott Marcar",
+      "title": "Chief Information Officer, NatWest Group",
+      "linkedin": "https://linkedin.com/in/scott-marcar-1940a33",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "David E",
+      "title": "Platform Lead / Global Multi-Cloud Lead",
+      "linkedin": "https://linkedin.com/in/david-e-4833b160",
+      "type": "technical",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "TSB Bank": [
+    {
+      "name": "Cheryl McCuaig",
+      "title": "Chief Information Officer",
+      "linkedin": "https://uk.linkedin.com/in/cheryl-mccuaig-340ab615",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Sailesh Panchal",
+      "title": "Chief Technology Officer + Payments",
+      "linkedin": "https://uk.linkedin.com/in/saileshpanchal",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "ACA Group": [
+    {
+      "name": "Nikolay Kojuharov",
+      "title": "Tech Executive \u2014 Founded AI Practice (FinTech RegTech)",
+      "linkedin": "https://www.linkedin.com/in/nkojuharov",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Nilesh Shroff",
+      "title": "Managing Director \u2014 Enterprise Software",
+      "linkedin": "https://www.linkedin.com/in/nilesh-shroff-910939",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Daniel Gabriel",
+      "title": "Lead Product Engineer",
+      "linkedin": "https://www.linkedin.com/in/daniel-gabriel-ba669011",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Capital One": [
+    {
+      "name": "Prem Natarajan, PhD",
+      "title": "Executive Vice President and Chief Scientist, Head of Enterprise AI, Data, and Staff Technologies",
+      "linkedin": "https://www.linkedin.com/in/natarajan",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "John Morgan",
+      "title": "Managing Vice President, Head of Product, Enterprise AI & Machine Learning Platforms",
+      "linkedin": "https://www.linkedin.com/in/john-morgan-51458a8",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Vivek Gupta",
+      "title": "Director, Distinguished Engineer",
+      "linkedin": "https://linkedin.com/in/vivek-gupta-7b188018",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Alex",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "John Hinnegan",
+      "title": "Senior Engineering Leader",
+      "linkedin": "https://linkedin.com/in/johnhinnegan",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Ben",
+          "strength": "warm"
+        },
+        {
+          "person": "Gelman",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Jason Burks",
+      "title": "Senior Director of Software Engineering",
+      "linkedin": "https://linkedin.com/in/jason-burks",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Charles",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Ryan McCaffrey",
+      "title": "Lead AI Engineer",
+      "linkedin": "https://linkedin.com/in/ryanpmccaffrey",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Doug",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Radford Tam",
+      "title": "Senior Engineering Manager, Platform Enablement",
+      "linkedin": "https://linkedin.com/in/radfordtam",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Emily",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "James P. Kennedy",
+      "title": "Head of TPM, Bank Modernization Lead",
+      "linkedin": "https://linkedin.com/in/jamespkennedynyc",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Gaby",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Jeff Chou",
+      "title": "VP of AI / Head of Product",
+      "linkedin": "https://linkedin.com/in/jeffchoumit",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Hannah",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Trina Leung",
+      "title": "AI/ML Platform Product Manager",
+      "linkedin": "https://linkedin.com/in/trina-leung",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Tanmaye",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    }
+  ],
+  "Celonis": [
+    {
+      "name": "Felipe Lora",
+      "title": "VP of Engineering \u2014 Platform (Site Lead, Munich HQ)",
+      "linkedin": "https://www.linkedin.com/in/felipelora",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Ye Zhou",
+      "title": "VP of Engineering",
+      "linkedin": "https://www.linkedin.com/in/ye-zhou-237566",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Raviv Cohen",
+      "title": "VP, Product & Enterprise Security",
+      "linkedin": "https://www.linkedin.com/in/ravivcohen",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Simon Stelzl",
+      "title": "VP, Value Engineering",
+      "linkedin": "https://www.linkedin.com/in/simon-stelzl",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "HSBC": [
+    {
+      "name": "David Rice",
+      "title": "Chief AI Officer",
+      "linkedin": "https://uk.linkedin.com/in/david-rice-845931145",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Jenny Jin",
+      "title": "Group Head Of AI Platforms",
+      "linkedin": "https://cn.linkedin.com/in/jenny-jin-51329b372/zh-cn",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "Munich Re": [
+    {
+      "name": "Fabian Winter",
+      "title": "Chief Data and AI Officer (Head of Central Division Data and Analytics)",
+      "linkedin": "https://www.linkedin.com/in/fabian-winter-13bb1688",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Jay Godse",
+      "title": "Head of Product & Technology",
+      "linkedin": "https://www.linkedin.com/in/jayengodse",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Karen Avellaneda",
+      "title": "AI EA Manager",
+      "linkedin": "https://www.linkedin.com/in/karen-avellaneda-mba-bbcc-454b0828",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "DKB | Deutsche Kreditbank AG": [
+    {
+      "name": "Arnulf Keese",
+      "title": "Vorstand",
+      "linkedin": "https://de.linkedin.com/in/arnulfkeese",
+      "type": "technical",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Mathias Rohbeck",
+      "title": "Director Of IT bei DKB",
+      "linkedin": "https://de.linkedin.com/in/mathias-rohbeck-48889920a",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "Bank of America": [
+    {
+      "name": "Hari Gopalkrishnan",
+      "title": "Chief Technology and Information Officer",
+      "linkedin": "https://www.linkedin.com/in/hari-gopalkrishnan-b1469b1",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Lou Papagalis",
+      "title": "VP Cloud Architecture and Engineering",
+      "linkedin": "https://www.linkedin.com/in/lou-papagalis-473a952a",
+      "type": "technical",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "Monzo Bank": [
+    {
+      "name": "Thomas Leitch",
+      "title": "Vice President Of Engineering",
+      "linkedin": "https://linkedin.com/in/tom-leitch",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Xiayun Sun",
+      "title": "Director Of Engineering, Payment",
+      "linkedin": "https://linkedin.com/in/xiayun-sun-36505513",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "F5": [
+    {
+      "name": "Karl Triebes",
+      "title": "CTO, Senior Vice President Product Development",
+      "linkedin": "https://www.linkedin.com/in/karl-triebes-9a63745",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    },
+    {
+      "name": "Anand Kolukula",
+      "title": "Vice President Of Engineering",
+      "linkedin": "https://www.linkedin.com/in/kolukula",
+      "type": "business",
+      "source": "webset",
+      "connections": []
+    }
+  ],
+  "PayPal": [
+    {
+      "name": "Warren Zhang",
+      "title": "Director of Engineering",
+      "linkedin": "https://linkedin.com/in/warren-zhang-95a79610",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Alex",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Bhuvaneswari Shanmugam",
+      "title": "Sr Software Engineering Manager",
+      "linkedin": "https://linkedin.com/in/bhuvaneswari-shanmugam-2b3b9275",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Gelman",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Gurinder Singh",
+      "title": "Staff Software Engineer",
+      "linkedin": "https://linkedin.com/in/gurinder-singh-a30a1a48",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Shuman",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Martin Brodbeck",
+      "title": "SVP, Head of Consumer Engineering",
+      "linkedin": "https://linkedin.com/in/martinbrodbeck",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Tobias",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    }
+  ],
+  "HubSpot": [
+    {
+      "name": "Asher Eastham",
+      "title": "Technical Lead",
+      "linkedin": "https://linkedin.com/in/ashereastham",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Bridget",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    }
+  ],
+  "ServiceNow": [
+    {
+      "name": "Cian Brassil",
+      "title": "Senior Staff Product Manager, AI",
+      "linkedin": "https://linkedin.com/in/brassil",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Cassie",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Lawrence Osai",
+      "title": "Principal Product Manager, AI Platform Security & Privacy",
+      "linkedin": "https://linkedin.com/in/lawrence-osai-85ba8b71",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Tanmaye",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Luke Hagstrand",
+      "title": "VP, Enterprise AI",
+      "linkedin": "https://linkedin.com/in/luke-hagstrand",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Tanmaye",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    }
+  ],
+  "General Motors (Cruise)": [
+    {
+      "name": "Nariman Madani",
+      "title": "Staff Machine Learning Engineer",
+      "linkedin": "https://linkedin.com/in/nariman-madani",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Ross",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Naghmana Majed",
+      "title": "Head of AI Product Engineering",
+      "linkedin": "https://linkedin.com/in/naghmana",
+      "type": "business",
+      "connections": [
+        {
+          "person": "Shuman",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Niel Teng Hu",
+      "title": "Senior Machine Learning Engineer II",
+      "linkedin": "https://linkedin.com/in/tenghu",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Tanmaye",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    },
+    {
+      "name": "Peter Kashou",
+      "title": "Vice President of Infrastructure",
+      "linkedin": "https://linkedin.com/in/peterkashou",
+      "type": "business",
+      "connections": [],
+      "source": "context_outbound"
+    }
+  ],
+  "Walmart": [
+    {
+      "name": "Yesudason Paulraj",
+      "title": "Group Director of Software Engineering",
+      "linkedin": "https://linkedin.com/in/ypaulraj",
+      "type": "technical",
+      "connections": [
+        {
+          "person": "Ross",
+          "strength": "warm"
+        }
+      ],
+      "source": "primary_network"
+    }
+  ],
+  "UnitedHealth Group": [
+    {
+      "name": "Srikanth Nittala",
+      "title": "Director (per Tom's outbound CSV)",
+      "linkedin": "https://linkedin.com/in/srikanthnittala/",
+      "type": "business",
+      "connections": [],
+      "source": "tom_csv"
+    },
+    {
+      "name": "Mike Kramer",
+      "title": "Director of Engineering",
+      "linkedin": "https://linkedin.com/in/michael-kramer-01259a23/",
+      "type": "technical",
+      "connections": [],
+      "source": "context_outbound"
+    }
+  ],
+  "Varonis": [
+    {
+      "name": "Yoni Feldman",
+      "title": "Vice President of Engineering",
+      "linkedin": "https://www.linkedin.com/in/yonifeldman",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Roy Ben Shlomo",
+      "title": "VP Engineering",
+      "linkedin": "https://www.linkedin.com/in/roybenshlomo",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Lior Chen",
+      "title": "Deputy CTO",
+      "linkedin": "https://www.linkedin.com/in/chenlior",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Ori Katz",
+      "title": "Director of Engineering, Cybersecurity & AI",
+      "linkedin": "https://www.linkedin.com/in/katz-ori",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Ford": [
+    {
+      "name": "Sucheta Walimbe",
+      "title": "CTO Enterprise Platform Engineering and Operations",
+      "linkedin": "https://www.linkedin.com/in/suchetawalimbe",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Tyler Underwood",
+      "title": "Senior Engineering & Product Leader",
+      "linkedin": "https://www.linkedin.com/in/tyler-underwood",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Joe Beiser",
+      "title": "Product & Operations Executive | Engineering Leadership",
+      "linkedin": "https://www.linkedin.com/in/joe-beiser",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Qualcomm": [
+    {
+      "name": "Len Sheynblat",
+      "title": "VP Engineering",
+      "linkedin": "https://www.linkedin.com/in/len-sheynblat-b177161",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Michael Campbell",
+      "title": "Sr. VP Engineering",
+      "linkedin": "https://www.linkedin.com/in/michaelcampbell2015",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Leonard Lin",
+      "title": "VP of Engineering, Qualcomm AI Research",
+      "linkedin": "https://www.linkedin.com/in/leonard-lin-6b3a5a37b",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Dan Weil",
+      "title": "VP Engineering",
+      "linkedin": "https://www.linkedin.com/in/weildan",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Abbott": [],
+  "American Airlines": [],
+  "Flatiron": [
+    {
+      "name": "Toni Ann Dearborn",
+      "title": "VP of Product Management (Platform Engineering)",
+      "linkedin": "https://www.linkedin.com/in/tonianndearborn",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Allison Candido",
+      "title": "Engineering",
+      "linkedin": "https://www.linkedin.com/in/allison-candido-09836064",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Workday": [
+    {
+      "name": "Patrick O Connor",
+      "title": "VP of Engineering & Product",
+      "linkedin": "https://www.linkedin.com/in/patrick-o-connor-8b046914",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Ashok Banerjee",
+      "title": "SVP / CTO (ex-Google) \u2014 Agentic AI, Data Platforms",
+      "linkedin": "https://www.linkedin.com/in/ashokbanerjee1",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Sanjeev Sastry",
+      "title": "Vice President, Workday",
+      "linkedin": "https://www.linkedin.com/in/sanjeev-sastry",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "BigPanda": [
+    {
+      "name": "Russ Elsner",
+      "title": "VP of Product Management",
+      "linkedin": "https://www.linkedin.com/in/russelsner",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Leon Gendler",
+      "title": "EVP R&D, IL GM",
+      "linkedin": "https://www.linkedin.com/in/leon-gendler",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Alexander Page",
+      "title": "Engineering Director, Applied AI",
+      "linkedin": "https://www.linkedin.com/in/alexanderkpage",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Rivian": [
+    {
+      "name": "Manish Agarwal",
+      "title": "Driving Agentic AI @ Rivian (ex-Amazon, Apple)",
+      "linkedin": "https://www.linkedin.com/in/manish-agarwal01",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Brian Gase",
+      "title": "VP, Engineering Quality",
+      "linkedin": "https://www.linkedin.com/in/brian-gase-396285b",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Krishna Bandaru",
+      "title": "Vice President, Manufacturing Engineering",
+      "linkedin": "https://www.linkedin.com/in/krishna-bandaru-802b4ab",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Prasun Raha",
+      "title": "HW Platform Architecture (Autonomy)",
+      "linkedin": "https://www.linkedin.com/in/prasunraha",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Jefferies": [
+    {
+      "name": "Camilo Correia",
+      "title": "VP, Global Head of Workspace Virtualization Engineering",
+      "linkedin": "https://www.linkedin.com/in/camilocorreia",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Lynne Davis",
+      "title": "CIO Wealth Management Technology",
+      "linkedin": "https://www.linkedin.com/in/lmdavis",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Mastercard": [
+    {
+      "name": "Vishal Anand",
+      "title": "VP AI (AI Center of Excellence)",
+      "linkedin": "https://www.linkedin.com/in/vianand",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Jayesh Kulkarni",
+      "title": "Engineering Leader, AI Transformation in FinTech & Payments",
+      "linkedin": "https://www.linkedin.com/in/jayeshkulkarni",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Nilesh Upadhye",
+      "title": "VP (Product Development and Product Solutioning)",
+      "linkedin": "https://www.linkedin.com/in/nilesh-upadhye-79719123",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Kiran Jayant",
+      "title": "Vice President, Technology Governance",
+      "linkedin": "https://www.linkedin.com/in/kiran-jayant-830a3042",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "Mobileye": [
+    {
+      "name": "Sefi Darshan",
+      "title": "VP Information Technology",
+      "linkedin": "https://www.linkedin.com/in/sefi-darshan-a6189b5",
+      "type": "business",
+      "connections": [],
+      "source": "lovelace"
+    },
+    {
+      "name": "Beny Haddad",
+      "title": "Technology Leader / former CTO (Cyber)",
+      "linkedin": "https://www.linkedin.com/in/benyhaddad",
+      "type": "technical",
+      "connections": [],
+      "source": "lovelace"
+    }
+  ],
+  "ABInBev": []
+}
